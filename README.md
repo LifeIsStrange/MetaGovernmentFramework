@@ -1,6 +1,7 @@
 # MetaGovernmentFramework
 
 A meta-government is a government inside a government. 
+
 You can also see this concept as policies bundles addons to which someone voluntarily subscribe.
 
 The concept of meta-government is among the top 10 list of obvious impacting things that should be mainstream but are not.
